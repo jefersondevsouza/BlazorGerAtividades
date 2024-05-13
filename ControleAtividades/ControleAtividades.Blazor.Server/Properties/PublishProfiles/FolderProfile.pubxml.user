@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Blazor.Server\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-05-13T16:58:20.2468801Z;True|2024-05-09T10:16:27.5129711-03:00;True|2024-05-09T10:13:38.3121249-03:00;True|2024-05-09T07:48:10.8454386-03:00;False|2024-05-09T07:47:45.5039143-03:00;True|2024-05-09T07:22:26.2534133-03:00;True|2024-05-03T10:47:38.9597100-03:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Integrated Security=SSPI%3bData Source=.\sqlexpress%3bInitial Catalog=ControleAtividadeDB%3buser=master%3bpassword=mst</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

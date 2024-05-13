@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ControleAtividades">
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="22.2.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Atividade_ListView" ShowAutoFilterRow="True" ShowFindPanel="True" />
+    <ListView Id="Colaborador_Atividades_ListView" ShowAutoFilterRow="True" ShowFindPanel="True" />
+    <ListView Id="Versao_Atividades_ListView" ShowAutoFilterRow="True" ShowFindPanel="True" />
+  </Views>
+</Application>

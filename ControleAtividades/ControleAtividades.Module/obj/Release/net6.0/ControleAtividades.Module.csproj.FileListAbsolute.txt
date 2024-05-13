@@ -1,0 +1,12 @@
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\bin\Release\net6.0\ControleAtividades.Module.deps.json
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\bin\Release\net6.0\ControleAtividades.Module.dll
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\bin\Release\net6.0\ControleAtividades.Module.pdb
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.csproj.AssemblyReference.cache
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.AssemblyInfoInputs.cache
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.AssemblyInfo.cs
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.csproj.CoreCompileInputs.cache
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.dll
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\refint\ControleAtividades.Module.dll
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ControleAtividades.Module.pdb
+C:\Users\jsilveira\Desktop\ControleAtividades\ControleAtividades.Module\obj\Release\net6.0\ref\ControleAtividades.Module.dll

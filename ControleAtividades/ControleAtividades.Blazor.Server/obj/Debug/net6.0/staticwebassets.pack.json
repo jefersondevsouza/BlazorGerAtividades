@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ControleAtividades.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ControleAtividades.Blazor.Server.props",
+      "PackagePath": "build\\ControleAtividades.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ControleAtividades.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\ControleAtividades.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ControleAtividades.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\ControleAtividades.Blazor.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
