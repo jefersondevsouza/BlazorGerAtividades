@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj": {}
+    "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj": {
+    "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj",
+        "projectUniqueName": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj",
         "projectName": "ControleAtividades.Module",
-        "projectPath": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj",
+        "projectPath": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj",
         "packagesPath": "C:\\Users\\jsilveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\obj\\",
+        "outputPath": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -104,15 +104,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             }
           ],
           "frameworkReferences": {
@@ -120,12 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

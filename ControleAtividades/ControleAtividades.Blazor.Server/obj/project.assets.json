@@ -8752,11 +8752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\ControleAtividades.Blazor.Server.csproj",
+      "projectUniqueName": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Blazor.Server\\ControleAtividades.Blazor.Server.csproj",
       "projectName": "ControleAtividades.Blazor.Server",
-      "projectPath": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\ControleAtividades.Blazor.Server.csproj",
+      "projectPath": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Blazor.Server\\ControleAtividades.Blazor.Server.csproj",
       "packagesPath": "C:\\Users\\jsilveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\obj\\",
+      "outputPath": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -8778,8 +8778,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj": {
-              "projectPath": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj"
+            "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj": {
+              "projectPath": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Module\\ControleAtividades.Module.csproj"
             }
           }
         }
@@ -8821,19 +8821,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.30, 6.0.30]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.30, 6.0.30]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.30, 6.0.30]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.30, 6.0.30]"
           }
         ],
         "frameworkReferences": {
@@ -8844,7 +8844,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

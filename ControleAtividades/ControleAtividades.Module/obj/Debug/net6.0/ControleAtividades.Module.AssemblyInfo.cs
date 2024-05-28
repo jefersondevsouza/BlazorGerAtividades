@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleAtividades.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb74c0b9553cf2c1bf2a57797a3254178676471a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleAtividades.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleAtividades.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]

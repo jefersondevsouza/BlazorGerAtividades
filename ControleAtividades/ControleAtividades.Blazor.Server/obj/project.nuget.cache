@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXCDRmUeZ0rblMmgCaO17UZ88AdNVh4UpnBk+Ng7b3UQ/OGRGkWKNA4GovZ+S/eR+XeoKyWhoggvcIGw0gKUkA==",
+  "dgSpecHash": "fOxe7UsKv5Orj5AJVSaF6HmNnK3d1jK3A2OGQtZZo2VsnPhQTrYTvmgnthBXLkxbbFYRiLGZGXL4G12Xb59G9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsilveira\\Desktop\\ControleAtividades\\ControleAtividades.Blazor.Server\\ControleAtividades.Blazor.Server.csproj",
+  "projectFilePath": "C:\\D\\GitProjects\\BlazorGerAtividades\\ControleAtividades\\ControleAtividades.Blazor.Server\\ControleAtividades.Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jsilveira\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages\\devexpress.blazor\\22.2.3\\devexpress.blazor.22.2.3.nupkg.sha512",
@@ -168,10 +168,10 @@
     "C:\\Users\\jsilveira\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\jsilveira\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\jsilveira\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\jsilveira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }
